@@ -15,6 +15,9 @@ This tells `black` where to look for files to check.
 ## Line-length (optional)
 This tells `black` how long each line of Python code can be.
 
+## Target version (optional)
+This tells `black` what Python version to target. Default is 3.6
+
 # Example usage
 Include this in your `.github/workflows/main.yaml`:
 
