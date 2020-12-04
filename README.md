@@ -28,4 +28,5 @@ uses: piotrpawlaczek/python-blacken@release/stable
 with:
   line-length: '88'
   path: '.'
+  target-version: 'py36'
 ```
